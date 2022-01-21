@@ -1,4 +1,4 @@
-# Hi there 👋 I'm María Quirós estudiante de Desarrollo de Aplicaciones Web!
+# Hi there 👋 I'm María Quirós!
 
 <div align="center">
   <a href="https://github.com/MariDaw">
